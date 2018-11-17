@@ -1,0 +1,9 @@
+Ivanov Ivan A
+
+Bishekov Timur C
+Aliyev Ali F
+
+
+Average - 66
+Maximum - 100
+Minimum - 22
