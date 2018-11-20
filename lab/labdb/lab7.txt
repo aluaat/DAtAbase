@@ -1,0 +1,6 @@
+CREATE INDEX country_names ON countries (name);
+CREATE INDEX employee_name ON employees (name, surname);
+CREATE INDEX salary_index ON employees (salary);
+CREATE INDEX name_index ON employees (substring(name from 1 for 4));
+CREATE INDEX budget_index ON departments (budget, department_id);
+CREATE INDEX salary_index ON employees(salary, department_id);
